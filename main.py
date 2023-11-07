@@ -2,6 +2,7 @@
 
 # Press Shift+F10 to execute it or replace it with your code.
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+from person import Person
 
 
 def print_hi(name):
@@ -18,4 +19,8 @@ num_1 = 2.3
 num_2 = 6
 result = num_1 + num_2
 print(result)
+
+man = Person("Jim", 50)
+man.sing()
+man.dance()
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/

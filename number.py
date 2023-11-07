@@ -9,3 +9,6 @@ result = num_2**4
 print(result)
 result = num_3 / 3
 print(result)
+print(int(result))
+num_3 = 4
+print(num_2 == num_3)
