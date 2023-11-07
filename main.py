@@ -13,5 +13,9 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('World!')
 print("Hello, World Again!!!")
-
+#-variables learn
+num_1 = 2.3
+num_2 = 6
+result = num_1 + num_2
+print(result)
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
